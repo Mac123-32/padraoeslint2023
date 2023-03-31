@@ -1,0 +1,22 @@
+{
+  "source.fixAll.eslint": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "language: typescript",
+    "autoFix:false",
+    "language:typescriptreact",
+    "autoFix:false"
+  ],
+  "editor.fontSize": 18,
+  "editor.lineHeight": 23,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false
+  }
+}
